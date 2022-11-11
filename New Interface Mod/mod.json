@@ -1,0 +1,16 @@
+{
+	"name" : "New-style Interface",
+	"description" : "Mod changes many of standard H3 interface graphics (not works for all resolutions).",
+	"version" : "1.0",
+	"author" : "FCst1 and NI team. Mod - Kuririn",
+	"contact" : "https://www.youtube.com/watch?v=BMz2CFtGuEw",
+	"modType" : "Interface",
+	"changelog" :
+	{
+		"1.0" : ["Initial release"]
+	},
+	"conflicts" :
+	[
+		"new-menu"
+	]
+}
