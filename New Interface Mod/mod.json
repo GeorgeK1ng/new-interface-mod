@@ -1,21 +1,22 @@
 {
-	"name" : "New-style Interface",
-	"description" : "Mod changes many of standard H3 interface graphics.",
-	"version" : "1.1",
-	"author" : "FCst1 and NI team. Mod - Kuririn, swats-the-floran",
-	"contact" : "https://www.youtube.com/watch?v=BMz2CFtGuEw",
-	"modType" : "Interface",
-	"changelog" :
-	{
-		"1.0" : ["Initial release"],
-		"1.1" : ["Few graphical changes for vcmi-1.4 layouts"]
-	},
-	"conflicts" :
-	[
-		"new-menu"
-	],
-	"compatibility" :
-	{
-		"min" : "1.4.0"
-	}
+    "name" : "New-style Interface",
+    "description" : "Mod changes many of standard H3 interface graphics.",
+    "version" : "1.1",
+    "author" : "FCst1 and NI team. Mod - Kuririn, faust.twi",
+    "contact" : "https://www.youtube.com/watch?v=BMz2CFtGuEw",
+    "modType" : "Interface",
+    "changelog" :
+    {
+        "1.0" : ["Initial release"],
+        "1.1" : ["Few graphical changes for vcmi-1.4 layouts"],
+        "1.2" : ["redrawn quest log, hero exchange and stack screens, set dependency on high res menu mod"]
+    },
+    "depends":
+    [
+        "hi-rez-menu"
+    ],
+    "compatibility" :
+    {
+        "min" : "1.4.0"
+    }
 }
