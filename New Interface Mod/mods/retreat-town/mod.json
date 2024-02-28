@@ -1,0 +1,14 @@
+{
+    "name" : "retreat town",
+    "description" : "overrides retreat-town town hall background.",
+	
+    "author" : "faust.twi",
+    "contact" : "https://forum.vcmi.eu/t/how-to-open-def-sprites/6174",
+    "version" : "1.0",
+
+    "modType" : "Compatibility",
+    "depends" :
+    [
+        "retreat-town"
+    ]
+}
