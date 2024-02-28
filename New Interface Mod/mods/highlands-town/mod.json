@@ -1,0 +1,14 @@
+{
+    "name" : "highlands town",
+    "description" : "overrides new highlands town hall screen to keep its background and keep new interface style.",
+	
+    "author" : "faust.twi",
+    "contact" : "https://forum.vcmi.eu/t/how-to-open-def-sprites/6174",
+    "version" : "1.0",
+
+    "modType" : "Compatibility",
+    "depends" :
+    [
+        "highlands-town"
+    ]
+}
