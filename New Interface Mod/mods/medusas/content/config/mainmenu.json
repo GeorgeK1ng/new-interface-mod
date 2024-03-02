@@ -1,26 +1,30 @@
 {
 	"game-select" :
 	[
+        "backgrounds/AmaDenchArt_ls.png",
 		"backgrounds/AphroditeAI_s.png",
 		"backgrounds/Candra_s.png",
 		"backgrounds/Captaintrebuchet_ls.png",
 		"backgrounds/eronzki999_s.png",
 		"backgrounds/NanoeTetsu_s.png",
+        "backgrounds/SebastianBecker_ls.png",
 		"backgrounds/thegryph_ls.png"
 	],
 
 	"loading" :
 	[
-		"new-menu/LoadingScreen 1.png",
-		"new-menu/LoadingScreen 2.png",
-		"new-menu/LoadingScreen 3.png",
-		"new-menu/LoadingScreen 4.png"
+		"backgrounds/AmaDenchArt_ls.png",
+		"backgrounds/Candra_l.png",
+		"backgrounds/Captaintrebuchet_ls.png",
+        "backgrounds/NanoeTetsu_l.png",
+        "nackgrounds/SebastianBecker_ls.png",
+        "backgrounds/thegryph_ls.png"
 	],
 
 	//Main menu window, consists of several sub-menus aka items
 	"window":
 	{
-		"background" : "new-menu/Background.png",
+		"background" : "backgrounds/mm.jpg",
 		"scalable" : true,
 		"items" : 
 		[
