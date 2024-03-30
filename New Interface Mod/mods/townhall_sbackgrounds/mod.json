@@ -1,0 +1,10 @@
+{
+    "name" : "Town hall backgrounds",
+    "description" : "overrides hall backgrounds in default towns and some modded.",
+	
+    "author" : "faust.twi",
+    "contact" : "https://forum.vcmi.eu/t/how-to-open-def-sprites/6174",
+    "version" : "1.0 2024-03-30",
+    
+    "modType" : "Interface"
+}
