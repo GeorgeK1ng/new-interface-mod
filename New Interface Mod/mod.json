@@ -1,7 +1,7 @@
 {
     "name" : "New-style Interface",
     "description" : "Mod changes many of standard H3 interface graphics.",
-    "version" : "1.1",
+    "version" : "1.4",
     "author" : "FCst1 and NI team. Mod - Kuririn, faust.twi",
     "contact" : "https://www.youtube.com/watch?v=BMz2CFtGuEw",
     "modType" : "Interface",
@@ -19,11 +19,15 @@
             "improved town hall screens",
             "added medusas submod",
             "reworked resource bar for few screens (not the main menu)"
+        ],
+        "1.4 2024.03.31" : [
+            "added submods with new town hall backgrounds for default and mod towns",
+            "changed dependency from high-res menu to ai loading screens"
         ]
     },
     "depends":
     [
-        "hi-rez-menu"
+        "ai-loading-screens"
     ],
     "compatibility" :
     {
