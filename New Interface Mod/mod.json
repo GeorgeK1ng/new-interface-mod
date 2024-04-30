@@ -29,7 +29,7 @@
     },
     "depends":
     [
-        "hi-rez-menu",
+        "ai-loading-screens",
         "vcmi-extras.adventureMap"
     ],
     "compatibility" :
