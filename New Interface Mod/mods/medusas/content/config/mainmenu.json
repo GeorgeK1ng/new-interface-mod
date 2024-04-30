@@ -9,7 +9,8 @@
         "backgrounds/NanoeTetsu_s.png",
         "backgrounds/SebastianBecker_ls.png",
         "backgrounds/thegryph_ls.png",
-        "backgrounds/a13xander_d3jrvil_ls.png"
+        "backgrounds/a13xander_d3jrvil_ls.png",
+        "backgrounds/NinjArt1st_ls.png"
     ],
 
     "loading" :
@@ -20,7 +21,10 @@
         "backgrounds/NanoeTetsu_l.png",
         "backgrounds/SebastianBecker_ls.png",
         "backgrounds/thegryph_ls.png",
-        "backgrounds/a13xander_d3jrvil_ls.png"
+        "backgrounds/a13xander_d3jrvil_ls.png",
+        "backgrounds/NinjArt1st_ls.png",
+        "backgrounds/sifterone_l.png",
+        "backgrounds/IrenHorrors_l.png"
     ],
 
     //Main menu window, consists of several sub-menus aka items
