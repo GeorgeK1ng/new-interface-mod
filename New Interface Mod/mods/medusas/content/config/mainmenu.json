@@ -30,7 +30,7 @@
     //Main menu window, consists of several sub-menus aka items
     "window":
     {
-        "background" : "backgrounds/mm.jpg",
+        "background" : "backgrounds/mm.png",
         "scalable" : true,
         "items" : 
         [
