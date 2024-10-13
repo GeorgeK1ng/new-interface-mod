@@ -1,0 +1,17 @@
+{
+    "sillylord" : {
+        "affinity" : "might",
+        "animation":  { "battle" : { "male" : "CH010.DEF",  "female" : "CH11.DEF" } },
+        "commander" : "Troglodyte",
+        "defaultTavern" : 5,
+        "faction" : "dungeon",
+        "highLevelChance" : { "attack" : 30, "defence" : 30, "knowledge" : 20, "spellpower" : 20 },
+        "lowLevelChance" : { "attack" : 35, "defence" : 30, "knowledge" : 30, "spellpower" : 5 },
+        "mapObject" : { "templates" : { "default" : { "animation" : "AH11_.def", "editorAnimation": "AH11_E.def" } } },
+        "name" : "Sillylord",
+        "primarySkills" : { "attack" : 3, "defence" : 1, "knowledge" : 0, "spellpower" : 2 },
+        "secondarySkills" : {
+            "intimidation" : 0
+        }
+    }
+}
