@@ -5,6 +5,15 @@
     "author" : "FCst1 and NI team. Mod - Kuririn, faust.twi",
     "contact" : "https://www.youtube.com/watch?v=BMz2CFtGuEw",
     "modType" : "Interface",
+    "depends":
+    [
+        "ai-loading-screens",
+        "vcmi-extras.adventureMap"
+    ],
+    "compatibility" :
+    {
+        "min" : "1.4.0"
+    },
     "changelog" :
     {
         "1.0 (2022.11.11)" : ["Initial release"],
@@ -29,14 +38,6 @@
         "1.6 (2024.10.13)": [
             "fixed battle ending screen",
             "heroid sisters submod"
-        ],
-    "depends":
-    [
-        "ai-loading-screens",
-        "vcmi-extras.adventureMap"
-    ],
-    "compatibility" :
-    {
-        "min" : "1.4.0"
-    }
+        ]
+	}
 }
