@@ -1,7 +1,7 @@
 {
     "sillylord" : {
         "affinity" : "might",
-		"defaultTavern" : 5,
+        "defaultTavern" : 5,
         "animation":  { "battle" : { "male" : "CH010.DEF",  "female" : "CH11.DEF" } },
         "commander" : "troglodyte",
         "faction" : "dungeon",
