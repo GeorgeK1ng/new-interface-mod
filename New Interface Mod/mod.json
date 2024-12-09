@@ -1,7 +1,7 @@
 {
     "name" : "New-style Interface",
     "description" : "Mod changes many of standard H3 interface graphics.",
-    "version" : "1.6",
+    "version" : "1.7",
     "author" : "FCst1 and NI team. Mod - Kuririn, faust.twi",
     "contact" : "https://www.youtube.com/watch?v=BMz2CFtGuEw",
     "modType" : "Interface",
@@ -12,6 +12,7 @@
     ],
 	"softDepends" : [
 		"vcmi-extras.quick-exchange",
+		"vcmi-extras.extendedLobby",
 		"wake-of-gods.heroes3datapatch",
 		"wake-of-gods.messengersandemissaries",
 		"hota.heroes3datapatch",
@@ -53,12 +54,15 @@
             "fixed battle ending screen",
             "heroid sisters submod"
         ],
-		"1.6 (2024.12.09)": [
+		"1.7 (2024.12.10)": [
             "Czech translation by George King"
         ]
 	},
 	"czech" : {
 		"name": "Nový styl rozhraní",
-		"description": "Modifikace mění mnoho prvků standardní grafiky rozhraní Heroes 3"
+		"description": "Modifikace mění mnoho prvků standardní grafiky rozhraní Heroes 3",
+		"translations" : [
+			"translation/new-interface-mod/czech.json"
+		]
 	}
 }
