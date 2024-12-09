@@ -25,5 +25,10 @@
 		"config/heroes/lussy",
         "config/heroes/sillycate"
 	],
-    "keepDisabled" : true
+    "keepDisabled" : true,
+	
+	"czech" : {
+		"name": "Hrdinské sestry",
+		"description": "Dvě nové hrdinky pro včetně nové rasy Paní ticha."
+	}
 }
