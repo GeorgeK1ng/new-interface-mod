@@ -1,7 +1,7 @@
 {
     "name" : "New-style Interface",
     "description" : "Mod changes many of standard H3 interface graphics.",
-    "version" : "1.7",
+    "version" : "1.6",
     "author" : "FCst1 and NI team. Mod - Kuririn, faust.twi",
     "contact" : "https://www.youtube.com/watch?v=BMz2CFtGuEw",
     "modType" : "Interface",
@@ -54,10 +54,15 @@
             "fixed battle ending screen",
             "heroid sisters submod"
         ],
-		"1.7 (2024.12.10)": [
+		"1.6.1 (2024.12.10)": [
             "Czech translation by George King"
+        ],
+        "1.6.2 (2025.01.04)": [
+            "fixed garrison screen as it is possible atm",
+            "medusa hero battle sprite (no animation though)"
         ]
 	},
+
 	"czech" : {
 		"name": "Nový styl rozhraní",
 		"description": "Modifikace mění mnoho prvků standardní grafiky rozhraní Heroes 3",
