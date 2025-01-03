@@ -1,8 +1,15 @@
 {
     "sillylord" : {
         "affinity" : "might",
-        "animation":  { "battle" : { "male" : "CH010.DEF",  "female" : "CH11.DEF" } },
-        "commander" : "Troglodyte",
+        "animation" :
+        {
+            "battle" : 
+            {
+                "female" : "medusa_battle",
+                "male"   : "medusa_battle"
+            }
+        },
+        "commander" : "troglodyte",
         "defaultTavern" : 5,
         "faction" : "dungeon",
         "highLevelChance" : { "attack" : 30, "defence" : 30, "knowledge" : 20, "spellpower" : 20 },
