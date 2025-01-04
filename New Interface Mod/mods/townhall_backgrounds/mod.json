@@ -1,15 +1,18 @@
 {
     "name" : "Town hall backgrounds",
     "description" : "overrides hall backgrounds in default towns and some modded.",
-	
+    
     "author" : "faust.twi",
     "contact" : "https://forum.vcmi.eu/t/how-to-open-def-sprites/6174",
     "version" : "1.0 2024-03-30",
     
     "modType" : "Interface",
-	
-	"czech" : {
-		"name": "Pozadí radnic měst",
-		"description": "Přepisuje pozadí radnic v 9 základních městech a některých modifikovaných."
-	}
+    "softDepends" : [
+        "new-interface-mod.new_style_interface"
+    ],
+    
+    "czech" : {
+        "name": "Pozadí radnic měst",
+        "description": "Přepisuje pozadí radnic v 9 základních městech a některých modifikovaných."
+    }
 }
