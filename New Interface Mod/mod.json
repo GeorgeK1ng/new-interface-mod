@@ -7,7 +7,6 @@
     "modType" : "Interface",
     "depends":
     [
-        "ai-loading-screens",
         "vcmi-extras.adventureMap"
     ],
 	"softDepends" : [
@@ -57,9 +56,14 @@
 		"1.6.1 (2024.12.10)": [
             "Czech translation by George King"
         ],
-        "1.6.2 (2025.01.04)": [
+        "1.6.2 (2025.01.03)": [
             "fixed garrison screen as it is possible atm",
             "medusa hero battle sprite (no animation though)"
+        ],
+        "1.7 (2025.01.04)": [
+            "moved new flags mod from small era mods",
+            "moved medusas are the best girls and heroic sisters to separated medusa mod",
+            "moved content to a submod"
         ]
 	},
 
