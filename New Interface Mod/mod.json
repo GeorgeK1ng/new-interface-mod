@@ -29,7 +29,8 @@
         "1.6 (2024.10.13)": [
             "fixed battle ending screen",
             "heroid sisters submod"
-        ],
+        ]
+	},
     "depends":
     [
         "ai-loading-screens",
