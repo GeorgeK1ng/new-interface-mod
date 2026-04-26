@@ -80,12 +80,8 @@
 			"Added University background for future use"
 		]
 	},
-
 	"czech" : {
 		"name" : "Nový styl rozhraní",
-		"description" : "Modifikace mění mnoho prvků standardní grafiky rozhraní Heroes 3",
-		"translations" : [
-			"translation/new-interface-mod/czech.json"
-		]
+		"description" : "Modifikace mění mnoho prvků standardní grafiky rozhraní Heroes 3"
 	}
 }
