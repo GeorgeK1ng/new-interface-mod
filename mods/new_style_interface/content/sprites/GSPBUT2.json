@@ -1,0 +1,25 @@
+{
+    "basepath": "GSPBUT2/",
+    "images": [
+        {
+            "group": 0,
+            "frame": 0,
+            "file": "GSPBut2n.pcx.png"
+        },
+        {
+            "group": 0,
+            "frame": 1,
+            "file": "GSPBut2s.pcx.png"
+        },
+        {
+            "group": 0,
+            "frame": 2,
+            "file": "GSPBut2d.pcx.png"
+        },
+        {
+            "group": 0,
+            "frame": 3,
+            "file": "GSPBut2h.pcx.png"
+        }
+    ]
+}

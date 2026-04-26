@@ -1,0 +1,13 @@
+{
+	"hero.new-interface-mod.heroic_sisters.lussy.biography" : "Lussy se narodila němá a nikdy neřekla jediné slovo. Ale co vás vyděsí víc? Nighonský válečník, který je dvakrát větší než vy a řve, zatímco třese sekerou, nebo nighonský lord, který mlčí... mlčí a hledí vám do očí.",
+	"hero.new-interface-mod.heroic_sisters.lussy.name" : "Lussy",
+	"hero.new-interface-mod.heroic_sisters.lussy.specialty.description" : "Výrazně zvyšuje šanci na zkamenění při útocích na blízko.",
+	"hero.new-interface-mod.heroic_sisters.lussy.specialty.name" : "Medúzy",
+	"hero.new-interface-mod.heroic_sisters.lussy.specialty.tooltip" : "Bojovníci bonus: Medúzy a Královny medúz",
+	"hero.new-interface-mod.heroic_sisters.sillycate.biography" : "Díky dobrému vztahu se svou starší sestrou Lussy a její ochraně má Silicate poměrně pohodlný život v Nighonu. Její chyby jsou odpouštěny a ztráty nahrazovány. Její existence je jasným bodem radosti a štěstí v temném a krutém království.",
+	"hero.new-interface-mod.heroic_sisters.sillycate.name" : "Silicate",
+	"hero.new-interface-mod.heroic_sisters.sillycate.specialty.description" : "Zvyšuje rychlost všech medúz a královen medúz a zdvojnásobuje počet jejich šípů.",
+	"hero.new-interface-mod.heroic_sisters.sillycate.specialty.name" : "Medúzy",
+	"hero.new-interface-mod.heroic_sisters.sillycate.specialty.tooltip" : "Bojovníci bonus: Medúzy a Královny medúz",
+	"heroClass.new-interface-mod.heroic_sisters.sillylord.name" : "Paní ticha"
+}

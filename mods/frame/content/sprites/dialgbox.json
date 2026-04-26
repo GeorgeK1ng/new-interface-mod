@@ -1,0 +1,60 @@
+{
+    "basepath": "dialgbox/",
+    "images": [
+        {
+            "group": 0,
+            "frame": 0,
+            "file": "DiBoxTL.pcx.png"
+        },
+        {
+            "group": 0,
+            "frame": 1,
+            "file": "DiBoxTR.pcx.png"
+        },
+        {
+            "group": 0,
+            "frame": 2,
+            "file": "DiBoxBL.pcx.png"
+        },
+        {
+            "group": 0,
+            "frame": 3,
+            "file": "DiBoxBR.pcx.png"
+        },
+        {
+            "group": 0,
+            "frame": 4,
+            "file": "DiBoxL.pcx.png"
+        },
+        {
+            "group": 0,
+            "frame": 5,
+            "file": "DiBoxR.pcx.png"
+        },
+        {
+            "group": 0,
+            "frame": 6,
+            "file": "DiBoxT.pcx.png"
+        },
+        {
+            "group": 0,
+            "frame": 7,
+            "file": "DiBoxB.pcx.png"
+        },
+        {
+            "group": 0,
+            "frame": 8,
+            "file": "DiBoxRL.pcx.png"
+        },
+        {
+            "group": 0,
+            "frame": 9,
+            "file": "DiBoxRR.pcx.png"
+        },
+        {
+            "group": 0,
+            "frame": 10,
+            "file": "DiBoxRB.pcx.png"
+        }
+    ]
+}

@@ -1,7 +1,7 @@
 {
     "name" : "New-style Interface",
     "description" : "Mod changes many of standard H3 interface graphics.",
-    "version" : "1.7",
+    "version" : "1.7.2",
     "author" : "FCst1 and NI team. Mod - Kuririn, faust.twi",
     "contact" : "https://www.youtube.com/watch?v=BMz2CFtGuEw",
     "modType" : "Interface",
@@ -62,14 +62,12 @@
             "moved medusas are the best girls and heroic sisters to separated medusa mod",
             "moved content to a submod"
         ],
-        "1.7.1 (2025.01.05)": ["dependencies fixes"]
+        "1.7.1 (2025.01.05)": ["dependencies fixes"],
+        "1.7.2 (2026.04.26)": ["Added dialog frame submod", "Fixed main menu background", "Fixed small button design for main menu", "Moved mod to repo root", "Added University background for future use"],
     },
 
     "czech" : {
         "name": "Nový styl rozhraní",
-        "description": "Modifikace mění mnoho prvků standardní grafiky rozhraní Heroes 3",
-        "translations" : [
-            "translation/new-interface-mod/czech.json"
-        ]
+        "description": "Modifikace mění mnoho prvků standardní grafiky rozhraní Heroes 3"
     }
 }
