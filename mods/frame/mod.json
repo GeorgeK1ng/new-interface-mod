@@ -1,0 +1,9 @@
+{
+	"name" : "Dialog frames",
+	"description" : "Changes dialogs frames",
+	"version" : "1.0",
+	"author" : "George King",
+	"contact" : "",
+	"modType" : "Graphical",
+	"keepDisabled" : true
+}
