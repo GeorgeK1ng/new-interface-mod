@@ -1,8 +1,13 @@
 {
 	"basepath" : "quick-exchange/",
-	"images" :
-	[
-		{ "frame" : 0, "file" : "swapAll1.bmp"},
-		{ "frame" : 1, "file" : "swapAll2.bmp"}
+	"images" : [
+		{
+			"frame" : 0,
+			"file" : "swapAll1.bmp"
+		},
+		{
+			"frame" : 1,
+			"file" : "swapAll2.bmp"
+		}
 	]
 }
