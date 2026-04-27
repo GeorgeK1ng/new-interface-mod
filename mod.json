@@ -88,7 +88,8 @@
 			"Fixed adventure map config",
 			"Fixed Battle mode background",
 			"Updated VCMI logo on AIShield",
-			"Added University background for 1-3 skills variants"
+			"Added University background for 1-3 skills variants",
+			"Switched to standard adventure buttons due lack of assets in required quality"
 		]
 	},
 	"czech" : {
